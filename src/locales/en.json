@@ -1,0 +1,99 @@
+{
+    "dashboard": "Dashboard",
+    "admins": "Admins",
+    "users": "Users",
+    "announcements":"Announcements",
+    "buyerannouncements": "Buyer announcements",
+    "sellerannnouncements": "Seller announcements",
+    "storagsannouncements": "Storage announcements",
+    "categories": "Categories",
+    "informations": "Informations",
+    "settings": "Settings",
+    
+    "theme":"Theme",
+    
+    "en":"English",
+    "ru":"Russian",
+    "uz":"Uzbek",
+    
+    "edit":"Edit",
+    "delete":"Delete",
+    "create":"Create",
+    "search":"Search",
+    
+    "enter_a_category_name":"Enter a category name",
+    "add_a_category":"Add a category",
+    
+    "koproq_malumot":"More information",
+    "categorydleteaccess":"Are you sure you want to delete this category ?",
+
+    "userdleteaccess":"Are you sure you want to delete this user ?",
+    
+    "next":"next",
+    "previous":"previous",
+    "show":"Showing",
+    "of":"of",
+
+    "censel":"Cancel",
+    "yes":"Yes",
+    
+    "newCategoryName":"Category name",
+    "update":"Update",
+    
+    "fullname":"Full name",
+    "phonenumber":"Phone numbers",
+    "price":"Price",
+    "description":"Description",
+    "title":"Title",
+    "capacity":"Capacity",
+    "capasitymeasure":"Capacity measure",
+    "region":"Region",
+    "district":"District",
+    "type":"Type",
+    "createdAt":"Created time",
+    "updated":"Updated time",
+    "status":"Status",
+    
+    "sellerpostinformation":"Seller post information",
+    "buyerpostinformation":"Buyer post information",
+    
+    "announcemment":"Announcements",
+    "kelishilganlar":"Agreed",
+    "xaridqiluvchilareloni":"Buyers announcement",
+    "newannouncements":"New announcements",
+    
+    "firsName":"Firs name",
+    "lastname":"Last name",
+    "phone":"Phone number",
+    "adress":"Adress",
+    "operations":"Operations",
+    
+    "a":"Number of announcements per year",
+    "b":"Number of ads received per year",
+    "c":"Number of unbooked ads",
+    "d":"Number of users",
+    
+    "postdleteaccess":"Are you sure you want to delete this announcement?",
+    "postinfoubdate":"Update ad information",
+
+    "TermsConditions":"Terms & Conditions",
+    "PrivacyPolicy":"Privacy Policy",
+    "About":"About",
+    "Telegram":"Telegram",
+    "SignOut":"Sign Out",
+    "GitHub":"GitHub",
+
+    "SalesReport":"Sales Report",
+    "createnewpost":"Create new announcement",
+    "images":"Images",
+    "choose":"Choose",
+    "statustypezero":"New",
+    "statustypeone":"Agreed",
+    "statustypetwo":"Buyed",
+    "admin":"+ Admin",
+    "adminback":"- Admin",
+    "adminstration":"Do you really want to give this user admin rights?",
+    "adminstrationback":"Are you sure you want to revoke this administrator's rights?"
+
+
+    }
